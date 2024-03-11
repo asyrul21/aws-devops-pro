@@ -8,7 +8,7 @@
       "OutputPath": "$.Payload",
       "Parameters": {
         "Payload.$": "$",
-        "FunctionName": "<ENTER FUNCTION NAME HERE>"
+        "FunctionName": "<ENTER FUNCTION NAME ARN HERE>"
       },
       "Retry": [
         {

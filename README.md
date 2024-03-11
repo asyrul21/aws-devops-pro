@@ -12,3 +12,7 @@ ASG: Auto Scaling Group
 AMI: Amazon Machine Images
 
 RAM: Resource Access Manager
+
+EBS: Elastic Bean Stalk
+
+SAM: Serverless Application Model
