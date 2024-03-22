@@ -11,8 +11,15 @@ ASG: Auto Scaling Group
 
 AMI: Amazon Machine Images
 
+AZ: Availability Zone
+
+CW: CloudWatch
+
 RAM: Resource Access Manager
 
 EBS: Elastic Bean Stalk
 
 SAM: Serverless Application Model
+
+TTL: Time to Live
+
